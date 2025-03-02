@@ -1,1 +1,2 @@
-# data-around-us-py
+# data-around-us
+# The Task: 1.Set title 2.Set author 3.Set publication year 4.Set millennial flag 5.Set age 6.Set characters 7.Display specific characters 8.Set favorite book 9.Display specific properties 10.Display array item through an object 11.Set list of books 12.Display object properties through an array 13.Calculate age difference between books
